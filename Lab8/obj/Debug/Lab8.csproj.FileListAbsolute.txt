@@ -1,0 +1,9 @@
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\bin\Debug\Lab8.exe.config
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\bin\Debug\Lab8.exe
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\bin\Debug\Lab8.pdb
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.DateForm.resources
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.Cache
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.exe
+c:\users\rakesh\documents\visual studio 2012\Projects\Lab8\Lab8\obj\Debug\Lab8.pdb
